@@ -1,0 +1,28 @@
+/*
+1. Posicionamiento - Position fix, 
+2. Modelo de caja (Box model)
+3. Tipografía
+4. Tema visual
+5. Miscelanios u otros.
+*/
+:root {
+ /*Colores*/
+  --bitcoin-orange: #F7931A; /* Naranja */ 
+  --soft-orange: #FFE9D5; /* Naranja claro */
+  --secondary-blue: #1a9af7; /* Azul secundario */
+  --soft-blue: #E7F5FF; /* Azul claro */
+  --warm-black: #201E1C;
+  --black: #282623;
+  --grey: #BABABA;
+  --off-white: #FAF8F7;
+  --white: #FFFFFF;
+}
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-size: 62.5%;
+  font-family: 'DM Sans', sans-serif;
+}
