@@ -65,3 +65,34 @@ header img {
   line-height: 1.8rem;
   color: var(--soft-orange)
 }
+ .header-button {
+  position: absolute; /*Relative me permite top, bottom, left and right*/
+  left: calc(50% - 118px); /* 229px / 2 */
+  top: 270px;
+  display: block;
+  margin-top: 35px;
+  padding: 16px;
+  width: 230px;
+  height: 48px;
+  background-color: var(--off-white);
+  /*Sombras*/
+  box-shadow: 0px 4px 8px rgba(89, 73, 30, 0.16);
+  border: none;
+  border-radius: 5px;
+  font-size: 1.4rem;
+  font-weight: bold;
+  text-decoration: none;
+  color: var(--black);
+}
+.header-button span {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-left: 6%;
+  background-image: url('../assets/icons/icon_arrow_down.svg');
+  background-size: contain; /* Asegura que se escale al tamaño del contenedor */
+  background-repeat: no-repeat; /* Evita que se repita */
+  background-position: center
+  font-size: 1.2rem;
+  color: var(--secondary-blue);
+}
