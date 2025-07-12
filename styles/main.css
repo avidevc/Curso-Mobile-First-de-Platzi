@@ -207,3 +207,13 @@ main {
   background-repeat: no-repeat; /* Evita que se repita */
   background-position: center;
 }
+.currency-table--container .up{
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  margin-left: 10px;
+  background-image: url('../assets/icons/trending-up\ 1.svg');
+  background-size: contain; /* Asegura que se escale al tamaño del contenedor */
+  background-repeat: no-repeat; /* Evita que se repita */
+  background-position: center;
+}
