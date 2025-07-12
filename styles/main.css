@@ -186,7 +186,7 @@ main {
   border-radius: 0 15px 0 0;
 }
 .currency-table--container .table__bottom-left {
-  border-radius: 0 0 15px 0;
+  border-radius: 0 0 0 15px;
 }
 .currency-table--container .table__bottom-right {
   border-radius: 0 0 15px 0;
@@ -197,6 +197,8 @@ main {
   line-height: 1.7rem;
   color: #757575;
 }
+
+/*Íconos de los valores de las monedas*/
 .currency-table--container .down{
   display: inline-block;
   width: 15px;
@@ -216,4 +218,21 @@ main {
   background-size: contain; /* Asegura que se escale al tamaño del contenedor */
   background-repeat: no-repeat; /* Evita que se repita */
   background-position: center;
+}
+
+/*Texto de actualización de las monedas*/
+.currency-table--date {
+  width: 190px;
+  margin: 0 auto;
+  margin-top: 30px;
+  padding: 8px;
+  background-color: var(--soft-orange);
+  border-radius: 8px;
+}
+.currency-table--date p {
+  margin: 7px;
+  font-size: 1.2rem;
+  font-weight: 300;
+  line-height: 1.5rem;
+  color: var(--warm-black);
 }
