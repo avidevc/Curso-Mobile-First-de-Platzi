@@ -21,6 +21,7 @@ En donde he desarrollado un sitio web con Responsive Design y Mobile First. He a
 
 ## Estructura del proyecto:
 📦 Curso de Responsive Design: Maquetación Mobile First
+```
 .
 ├── README.md
 ├── assets
@@ -49,7 +50,7 @@ En donde he desarrollado un sitio web con Responsive Design y Mobile First. He a
 ├── styles
 │   └── main.css
 └── tree.txt
-
+```
 5 directories, 22 files
 
 
