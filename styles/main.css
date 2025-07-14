@@ -236,3 +236,22 @@ main {
   line-height: 1.5rem;
   color: var(--warm-black);
 }
+/*Estilos para de la sección de product*/
+.main-product-detail {
+  position: relative;
+  width: 100%;
+  min-width: 320px;
+  height: auto;
+  padding: 20px 10px;
+  background-color: var(--warm-black);
+  text-align: center;
+}
+.product-detail--batata-logo {
+  position: absolute; /*Siempre que definamos absolute tenemos que tener en cuenta al padre, ya que va a buscar el primer elemento de relative.*/
+  width: 40px;
+  height: 24px;
+  top: -12px;
+  left: calc(50% - 20px); /* 40px / 2 */
+  background-image: url('../assets/img/logos/iso-batata-bit.svg');
+  
+}
