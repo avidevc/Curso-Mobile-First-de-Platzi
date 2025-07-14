@@ -12,7 +12,7 @@ En donde he desarrollado un sitio web con Responsive Design y Mobile First. He a
 - Notas personales y recursos adicionales
 
 ## 📸 Vista previa
-![Captura del proyecto](./assets/img/screenshot-curso-html-css-practico.jpg)
+![Captura del proyecto](./assets/img/screenshot-preview-project.png)
 
 ## 🛠️ Tecnologías utilizadas
 - HTML5
@@ -20,13 +20,38 @@ En donde he desarrollado un sitio web con Responsive Design y Mobile First. He a
 - Git y GitHub
 
 ## Estructura del proyecto:
-📦 CSS-Grid-Basico-Platzi
+📦 Curso de Responsive Design: Maquetación Mobile First
+.
+├── README.md
+├── assets
+│   ├── icons
+│   │   ├── button_icon_right_arrow.svg
+│   │   ├── icon-check-circle.svg
+│   │   ├── icon-clock.svg
+│   │   ├── icon-dollar-sign.svg
+│   │   ├── icon-eye.svg
+│   │   ├── icon_arrow_down.svg
+│   │   ├── icon_blur_left_arrow.svg
+│   │   ├── icon_blur_right_arrow.svg
+│   │   ├── icon_left_arrow.svg
+│   │   ├── icon_right_arrow.svg
+│   │   ├── trending-down 1.svg
+│   │   └── trending-up 1.svg
+│   └── img
+│       ├── Bitcoin.svg
+│       ├── bitcoinbaby.png
+│       ├── logos
+│       │   ├── iso-batata-bit.svg
+│       │   ├── logo-batatabit.svg
+│       │   └── logo-footer-batatabit.svg
+│       └── screenshot-preview-project.png
 ├── index.html
-├── styles/
-│   └── main.css
-├── assets/
-│   └── imagenes
-└── README.md
+├── styles
+│   └── main.css
+└── tree.txt
+
+5 directories, 22 files
+
 
 ## 📚 Resources / References
 - Plataforma: [Platzi](https://platzi.com)
