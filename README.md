@@ -51,12 +51,11 @@ En donde he desarrollado un sitio web con Responsive Design y Mobile First. He a
 │   └── main.css
 └── tree.txt
 ```
-5 directories, 22 files
-
+_5 directories, 22 files_
 
 ## 📚 Resources / References
 - Plataforma: [Platzi](https://platzi.com)
 - Enlace del curso: [Curso de Responsive Design: Maquetación Mobile First](https://platzi.com/cursos/mobile-first/)
 
 ## ✍️ Autor
-Hecho con 💚 por @avidevcode
+Hecho con 💚 por @avidevcode, créditos para @Platzi
